@@ -65,7 +65,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,angular,arduino,bash,bootstrap,cs,css,debian,django,docker,dotnet,express,fastapi,firebase,flask,git,github,heroku,html,java,js,php,jest,jquery,kali,linux,md,materialui,mongodb,mysql,netlify,nodejs,npm,opencv,ps,postman,powershell,pycharm,py,pytorch,raspberrypi,react,regex,sass,spring,sqlite,sklearn,selenium,tailwind,tensorflow,threejs,ts,ubuntu,unity,vercel,vim,visualstudio,vite,nextjs,vscode,windows,wordpress,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=anaconda,angular,arduino,bash,bootstrap,cs,css,debian,django,docker,dotnet,express,fastapi,firebase,gcp,flask,git,github,heroku,html,java,js,php,jest,jquery,kali,linux,md,materialui,mongodb,mysql,netlify,nodejs,npm,nginx,opencv,ps,postman,powershell,pycharm,py,pytorch,raspberrypi,react,regex,sass,spring,sqlite,sklearn,selenium,tailwind,tensorflow,threejs,ts,ubuntu,unity,vercel,vim,visualstudio,vite,nextjs,vscode,windows,wordpress,&perline=14" />
   </a>
 </p>
 
