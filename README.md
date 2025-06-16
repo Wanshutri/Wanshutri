@@ -10,9 +10,7 @@
 
 <!--Intro start-->
 - 🔭 Actualmente estoy estudiando **Ingeniería en Informática**
-- 🌱 Estoy aprendiendo a usar el **Deep Learning para modelos de NPL.**
 - ☁️ Estoy interesado en las áreas de **Investigacion, Desarrollo, Inteligencia Artificial y Ciberseguridad**
-- 📫 Contáctame a mi correo **valenzuelavivancofelipe@gmail.com**
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
