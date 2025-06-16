@@ -45,7 +45,7 @@
 <!--h2 sin borde inferior-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías con las que he trabajado 👨🏻‍💻 (Orden mayor a menor dominio)</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologías con las que he trabajado 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 
