@@ -10,7 +10,9 @@
 
 <!--Intro start-->
 - 🔭 Actualmente estoy estudiando **Ingeniería en Informática**
+- 🌱 Estoy aprendiendo a usar el **Deep Learning para modelos de NPL.**
 - ☁️ Estoy interesado en las áreas de **Investigacion, Desarrollo, Inteligencia Artificial y Ciberseguridad**
+- 📫 Contáctame a mi correo **valenzuelavivancofelipe@gmail.com**
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
@@ -43,7 +45,7 @@
 <!--h2 sin borde inferior-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías con las que he trabajado 👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologías con las que he trabajado 👨🏻‍💻 (Orden mayor a menor dominio)</h2></summary>
   </ul>
 </div>
 
@@ -54,7 +56,7 @@
       <h4 align="center">Lenguajes de programación/marcado/estilos</h4>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=js,html,css,py,ts,java,cs,kotlin,php,cpp,bash&perline=14" />
+          <img src="https://skillicons.dev/icons?i=js,html,css,py,ts,java,cs,bash&perline=14" />
         </a>
       </p>
     </td>
@@ -72,7 +74,7 @@
       <h4 align="center">Back-end (Frameworks y Entornos)</h4>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs,express,django,dotnet,spring,fastapi,laravel&perline=14" />
+          <img src="https://skillicons.dev/icons?i=nodejs,express,django,dotnet,spring,fastapi&perline=14" />
         </a>
       </p>
     </td>
@@ -90,7 +92,7 @@
       <h4 align="center">Bases de Datos</h4>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&perline=14" />
+          <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=14" />
         </a>
       </p>
     </td>
@@ -116,7 +118,7 @@
       <h4 align="center">Desarrollo (Administradores de Paquetes, Bundlers / Compiladores)</h4>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=npm,anaconda,vite&perline=14" />
+          <img src="https://skillicons.dev/icons?i=npm,anaconda,maven,gradle,vite&perline=14" />
         </a>
       </p>
     </td>
@@ -134,7 +136,7 @@
       <h4 align="center">IDEs (Editores de código)</h4>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=vscode,visualstudio,arduino,androidstudio,vim&perline=14" />
+          <img src="https://skillicons.dev/icons?i=vscode,visualstudio,arduino,androidstudio&perline=14" />
         </a>
       </p>
     </td>
@@ -144,7 +146,7 @@
       <h4 align="center">Herramientas de Diseño</h4>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=ps,figma,blender&perline=14" />
+          <img src="https://skillicons.dev/icons?i=ps,figma&perline=14" />
         </a>
       </p>
     </td>
