@@ -98,7 +98,7 @@
       <h4 align="center">Infraestructura (Cloud, Hosting, Contenedores)</h4>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=docker,gcp,netlify,vercel,firebase&perline=14" />
+          <img src="https://skillicons.dev/icons?i=docker,gcp, kubernetes,netlify,vercel,firebase&perline=14" />
         </a>
       </p>
     </td>
