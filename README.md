@@ -43,7 +43,7 @@
 <!--h2 sin borde inferior-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías con las que he trabajado 👨🏻‍💻 (Orden mayor a menor dominio)</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologías con las que he trabajado 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 
@@ -54,7 +54,7 @@
       <h4 align="center">Lenguajes de programación/marcado/estilos</h4>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=js,html,css,py,ts,java,cs,bash&perline=14" />
+          <img src="https://skillicons.dev/icons?i=js,html,css,py,ts,java,bash&perline=14" />
         </a>
       </p>
     </td>
@@ -62,7 +62,7 @@
       <h4 align="center">Front-end (Frameworks/Librerías/Preprocesadores)</h4>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,nextjs,tailwind,materialui,jquery,sass&perline=14" />
+          <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,nextjs,tailwind&perline=14" />
         </a>
       </p>
     </td>
@@ -72,7 +72,7 @@
       <h4 align="center">Back-end (Frameworks y Entornos)</h4>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs,express,django,dotnet,spring,fastapi&perline=14" />
+          <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,spring,fastapi&perline=14" />
         </a>
       </p>
     </td>
