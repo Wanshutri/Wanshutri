@@ -162,7 +162,7 @@
 <!-- Connect with me -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Comunícate conmigo 🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Comunícate conmigo o visita mi Portafolio 🤝</h2></summary>
   </ul>
 </div>
 
