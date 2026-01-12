@@ -9,7 +9,7 @@
 </div>
 
 <!--Intro start-->
-- 🔭 Actualmente estoy estudiando **Ingeniería en Informática**
+- 🔭 Soy un **Ingeniero en Informática motivado por aprender y desarrollar.**
 - ☁️ Estoy interesado en las áreas de **Investigacion, Desarrollo, Inteligencia Artificial y Ciberseguridad**
 <!--Intro end-->
 
